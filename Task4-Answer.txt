@@ -1,0 +1,1 @@
+Task 4: Cleaned up by deleting /etc/skel/hello.txt, users foo and bar, group baz, and /home/foo.
