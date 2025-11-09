@@ -1,0 +1,1 @@
+Task 3: Created group 'baz' and added users 'foo' and 'bar' to it.
